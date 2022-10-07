@@ -5,7 +5,7 @@ import { AiFillLinkedin, AiFillBehanceSquare } from "react-icons/ai";
 import codingImg from '../public/codingImg.svg'
 import rIcon from '../public/react-icon.svg'
 import NxIcon from '../public/Nextjs-logo.svg'
-import wflow from "../public/Webflow.svg";
+// import wflow from "../public/Webflow.svg";
 import fig from "../public/figma.svg";
 import tail from "../public/tailwind.svg";
 import http from "../public/html.svg"
@@ -132,10 +132,10 @@ export default function Home() {
                   <Image src={http} width={50} height={50} alt="" />
                   <h5>HTML5</h5>
                 </div>
-                <div>
+                {/* <div>
                   <Image src={wflow} width={50} height={50} alt="" />
                   <h5>Webflow</h5>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
