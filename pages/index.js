@@ -61,7 +61,7 @@ export default function Home() {
           </nav>
           <div className="text-center p-10">
             <h3 className="text-2xl text-gray-700 dark:text-slate-300">
-              Hi I'm
+              Hi I&apos;m
             </h3>
             <h1 className="text-5xl py-2 font-medium text-teal-700 md:text-6xl dark:text-teal-300">
               Emmanuel Mensah
@@ -71,12 +71,13 @@ export default function Home() {
             </h3>
             <p className=" py-2 leading-7 text-gray-700 text-lg md:text-xl max-w-xl mx-auto dark:text-slate-300">
               with experience in building Web Applications/products using
-              ReactJs. Sometimes I'm a Webflow/Bubble Developer
+              ReactJs. Sometimes I&apos;m a Webflow/Bubble Developer
             </p>
             <div className="flex justify-center text-4xl gap-5 py-3 text-gray-600">
               <a
                 href="https://www.behance.net/emmanuemensah2"
                 target="_blank"
+                rel="noreferrer"
                 className="cursor-pointer"
               >
                 <AiFillBehanceSquare />
@@ -84,6 +85,7 @@ export default function Home() {
               <a
                 href="https://www.linkedin.com/in/emmanuel-mensah-141b42191/"
                 target="_blank"
+                rel="noreferrer"
                 className="cursor-pointer"
               >
                 <AiFillLinkedin />
@@ -100,10 +102,10 @@ export default function Home() {
               <p className="text-lg">
                 I build aesthetic websites and provide frontend solutions while
                 optimizing for great user experience. I also create web and
-                mobile interfaces and have had the opportunity to use
+                mobile interfaces and have had the opportunity to usen
                 lowcode/no-code tools to create simple function apps that have
-                to meet a tight business requirement. I'm constantly learning
-                modern frameworks to improve my skillset
+                to meet a tight business requirement. I&apos;m constantly
+                learning modern frameworks to improve my skillset
               </p>
               <div className="lg:flex  justify-center gap-6 py-6  mx-auto text-center flex-wrap flex ">
                 <div>
@@ -143,6 +145,7 @@ export default function Home() {
             <div className="p-6 rounded-lg overflow-hidden shadow bg-slate-200/100">
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://movie-database1-git-master-preshlele.vercel.app/"
                 className="cursor-pointer "
               >
@@ -166,6 +169,7 @@ export default function Home() {
             <div className="p-6 rounded-lg overflow-hidden shadow bg-slate-200/100">
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://restcountries4u.netlify.app/"
                 className="cursor-pointer "
               >
@@ -189,6 +193,7 @@ export default function Home() {
             <div className="p-6 rounded-lg overflow-hidden shadow bg-slate-200/100">
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://weather-app-v1-three.vercel.app/"
                 className="cursor-pointer "
               >
@@ -212,6 +217,7 @@ export default function Home() {
             <div className="p-6 rounded-lg overflow-hidden shadow bg-slate-200/100">
               <a
                 target="_blank"
+                rel="noreferrer"
                 href="https://next-login-form.vercel.app/"
                 className="cursor-pointer "
               >
