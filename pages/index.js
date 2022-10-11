@@ -102,7 +102,7 @@ export default function Home() {
               <p className="text-lg">
                 I build aesthetic websites and provide frontend solutions while
                 optimizing for great user experience. I also create web and
-                mobile interfaces and have had the opportunity to usen
+                mobile interfaces and have had the opportunity to use
                 lowcode/no-code tools to create simple function apps that have
                 to meet a tight business requirement. I&apos;m constantly
                 learning modern frameworks to improve my skillset
